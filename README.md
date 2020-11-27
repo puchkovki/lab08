@@ -1,4 +1,4 @@
-## Laboratory work VIII [![Build Status](https://travis-ci.com/puchkovki/lab08.svg?branch=master)](https://travis-ci.com/puchkovki/lab08)
+## Laboratory work VIII [![Build Status](https://travis-ci.com/puchkovki/lab08-Docker.svg?branch=master)](https://travis-ci.com/puchkovki/lab08-Docker)
 
 Данная лабораторная работа посвещена изучению систем автоматизации развёртывания и управления приложениями на примере **Docker**
 
